@@ -27,3 +27,4 @@ const syncData= fs.readFileSync('hello.txt','utf-8')
 console.log(syncData,'syncData')
 console.log('c')
 console.log('d')
+
